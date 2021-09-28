@@ -29,7 +29,7 @@ After that, you need an **API key**. Go to database settings for your newly crea
 
 You can use this repository on Netlify. After creating an Aamu.app database, click this:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/AamuApp/gatsby-aamu-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ile/gatsby-aamu-starter-bug)
 
 Netlify will ask your permission to clone this repository — First click *Connect to GitHub*, then click *Authorize*. 
 
