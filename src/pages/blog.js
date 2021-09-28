@@ -55,21 +55,7 @@ export const pageQuery = graphql`
               image {
                 id
                 childImageSharp {
-                  id
-                  fluid {
-                    base64
-                    tracedSVG
-                    srcWebp
-                    srcSetWebp
-                    originalImg
-                    originalName
-                    presentationWidth
-                    presentationHeight
-                    aspectRatio
-                    src
-                    srcSet
-                    sizes
-                  }
+                  gatsbyImageData(layout: FULL_WIDTH)
                 }
               }
             }
